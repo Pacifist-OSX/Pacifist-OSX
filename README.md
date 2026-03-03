@@ -1,7 +1,7 @@
 # Pacifist – Package Extractor
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/6812/l/pacifist-logo.png?v=1661056598" width="200" alt="Pacifist icon"/>
+  <img src="https://macx.ws/uploads/posts/2026-01/pacifist.png" width="200" alt="Pacifist icon"/>
 </p>
 
 <p align="center">
